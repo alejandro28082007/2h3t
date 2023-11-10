@@ -28,3 +28,8 @@ button{
 #igual {
     background-color: #a4ea4f;
 }
+.entrada{
+    width: 36px;
+    border: none;
+    border-bottom: 2p solid black;
+}
